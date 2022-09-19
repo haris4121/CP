@@ -41,7 +41,7 @@ Node * current = root;
     }
 
 
-return inder;
+return inoder;
 
 }
 
